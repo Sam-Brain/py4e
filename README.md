@@ -7,7 +7,7 @@ The Specialization consists of 5 courses:
 2. [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
 3. [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
 4. [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
-5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-databases?specialization=python)
+5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](hhttps://www.coursera.org/learn/python-data-visualization)
 
 **Skills learned:** Python | SQL | data analysis | data visualization
 
